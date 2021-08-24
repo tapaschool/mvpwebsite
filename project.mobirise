@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "tapa.school",
+    "name": "Tapa School",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -44,17 +44,27 @@
     ],
     "uniqCompNum": 56,
     "versionPublish": "5.2.0",
-    "imageResize": true
+    "imageResize": true,
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-204914198-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-204914198-2');\n</script>",
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Tapa School - Ace Product Design Round",
+        "meta_descr": "Tapa's practice regimen trains you on all the things you are evaluated for in the product management interview. ",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/component-1561.png"
       },
       "components": [
         {
